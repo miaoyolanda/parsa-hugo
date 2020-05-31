@@ -1,4 +1,4 @@
-baseURL = "http://mimi.betacat.io/"
+baseURL = "https://mimiblog.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
